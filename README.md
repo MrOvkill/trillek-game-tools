@@ -1,4 +1,6 @@
-trillek-game-tools
+Trillek Game Tools
 ==================
 
-Game tools code will be here one day. One day.
+Here is where we put the code for the game tools<br />
+Current tools:<br />
+1. Shipeditor - MrOverkill
